@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    font-size: 1.2em;
+    font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    background: #f6f6f6 url('/images/bg.gif') repeat;
+    color: #333;
+}
